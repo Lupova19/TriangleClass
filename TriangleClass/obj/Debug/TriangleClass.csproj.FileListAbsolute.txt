@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\bin\Debug\TriangleClass.exe.config
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\bin\Debug\TriangleClass.exe
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\bin\Debug\TriangleClass.pdb
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\obj\Debug\TriangleClass.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\obj\Debug\TriangleClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\obj\Debug\TriangleClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\obj\Debug\TriangleClass.exe
+C:\Users\Admin\Desktop\Lupova19\Triangle\TriangleClass\obj\Debug\TriangleClass.pdb
